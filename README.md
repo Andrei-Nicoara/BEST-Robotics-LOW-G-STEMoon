@@ -1,3 +1,2 @@
 # BEST-Robotics-LOW-G-STEMoon
-
-# The template file contains template functions for servo and arm movement.
+//The template file contains template functions for servo and arm movement. not full code.
